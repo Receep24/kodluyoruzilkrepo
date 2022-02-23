@@ -14,7 +14,7 @@ Projeyi cloneladıktan sonra Viusal Studio Code programında açınız.
 
 linux için:
 
-'''cd kodluyoruzilkrepo
+'cd kodluyoruzilkrepo
 code . 
-'''
+'
 
